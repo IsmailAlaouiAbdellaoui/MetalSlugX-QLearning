@@ -1,0 +1,19 @@
+D:\Users\smail\documents\visual studio 2015\Projects1\mslugx-form\mslugx-form\bin\Debug\mslugx-form.exe.config
+D:\Users\smail\documents\visual studio 2015\Projects1\mslugx-form\mslugx-form\bin\Debug\mslugx-form.exe
+D:\Users\smail\documents\visual studio 2015\Projects1\mslugx-form\mslugx-form\bin\Debug\mslugx-form.pdb
+D:\Users\smail\documents\visual studio 2015\Projects1\mslugx-form\mslugx-form\obj\Debug\mslugx-form.csprojResolveAssemblyReference.cache
+D:\Users\smail\documents\visual studio 2015\Projects1\mslugx-form\mslugx-form\obj\Debug\mslugx_form.Form1.resources
+D:\Users\smail\documents\visual studio 2015\Projects1\mslugx-form\mslugx-form\obj\Debug\mslugx_form.Properties.Resources.resources
+D:\Users\smail\documents\visual studio 2015\Projects1\mslugx-form\mslugx-form\obj\Debug\mslugx-form.csproj.GenerateResource.Cache
+D:\Users\smail\documents\visual studio 2015\Projects1\mslugx-form\mslugx-form\obj\Debug\mslugx-form.exe
+D:\Users\smail\documents\visual studio 2015\Projects1\mslugx-form\mslugx-form\obj\Debug\mslugx-form.pdb
+F:\Program Files (x86)\Microsoft Visual Studio\Projects\mslugx-form\mslugx-form\bin\Debug\mslugx-form.exe.config
+F:\Program Files (x86)\Microsoft Visual Studio\Projects\mslugx-form\mslugx-form\bin\Debug\mslugx-form.exe
+F:\Program Files (x86)\Microsoft Visual Studio\Projects\mslugx-form\mslugx-form\bin\Debug\mslugx-form.pdb
+F:\Program Files (x86)\Microsoft Visual Studio\Projects\mslugx-form\mslugx-form\obj\Debug\mslugx-form.csprojAssemblyReference.cache
+F:\Program Files (x86)\Microsoft Visual Studio\Projects\mslugx-form\mslugx-form\obj\Debug\mslugx_form.Form1.resources
+F:\Program Files (x86)\Microsoft Visual Studio\Projects\mslugx-form\mslugx-form\obj\Debug\mslugx_form.Properties.Resources.resources
+F:\Program Files (x86)\Microsoft Visual Studio\Projects\mslugx-form\mslugx-form\obj\Debug\mslugx-form.csproj.GenerateResource.cache
+F:\Program Files (x86)\Microsoft Visual Studio\Projects\mslugx-form\mslugx-form\obj\Debug\mslugx-form.csproj.CoreCompileInputs.cache
+F:\Program Files (x86)\Microsoft Visual Studio\Projects\mslugx-form\mslugx-form\obj\Debug\mslugx-form.exe
+F:\Program Files (x86)\Microsoft Visual Studio\Projects\mslugx-form\mslugx-form\obj\Debug\mslugx-form.pdb
